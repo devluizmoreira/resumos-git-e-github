@@ -1,1 +1,0 @@
-# resumos-git-e-github
